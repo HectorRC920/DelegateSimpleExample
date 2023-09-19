@@ -1,0 +1,15 @@
+/home/hector/CSharp/DelegateSimpleExample/bin/Debug/net7.0/DelegateSimpleExample
+/home/hector/CSharp/DelegateSimpleExample/bin/Debug/net7.0/DelegateSimpleExample.deps.json
+/home/hector/CSharp/DelegateSimpleExample/bin/Debug/net7.0/DelegateSimpleExample.runtimeconfig.json
+/home/hector/CSharp/DelegateSimpleExample/bin/Debug/net7.0/DelegateSimpleExample.dll
+/home/hector/CSharp/DelegateSimpleExample/bin/Debug/net7.0/DelegateSimpleExample.pdb
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.csproj.AssemblyReference.cache
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.AssemblyInfoInputs.cache
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.AssemblyInfo.cs
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.csproj.CoreCompileInputs.cache
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.dll
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/refint/DelegateSimpleExample.dll
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.pdb
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/DelegateSimpleExample.genruntimeconfig.cache
+/home/hector/CSharp/DelegateSimpleExample/obj/Debug/net7.0/ref/DelegateSimpleExample.dll
